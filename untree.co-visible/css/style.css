@@ -506,24 +506,24 @@ h1, h2, h3, h4, h5 {
   border-radius: 30px;
   border: 2px solid transparent; }
   .btn.btn-primary {
-    background: #2C80E8; }
+    background: #4a0a54; }
     .btn.btn-primary:hover {
       border: 2px solid transparent; }
   .btn.btn-outline-primary {
     border-width: 2px;
-    border: 2px solid #2C80E8;
+    border: 2px solid #4a0a54;
     background-color: transparent;
-    color: #2C80E8; }
+    color: #800080; }
     .btn.btn-outline-primary:hover {
-      background: #2C80E8;
+      background: #4a0a54;
       color: #ffffff; }
   .btn.btn-primary-hover-outline {
-    background: #2C80E8;
+    background: #4a0a54;
     color: #ffffff; }
     .btn.btn-primary-hover-outline:hover {
-      border: 2px solid #2C80E8;
+      border: 2px solid #4a0a54;
       background: transparent;
-      color: #2C80E8; }
+      color: #800080; }
 
 .section-grey {
   padding-top: 60px;
@@ -1073,6 +1073,12 @@ input[type="password"] {
       color: #ffffff;
       background-color: #800080; }
 
+.btn-purple{
+  background-color: #4a0a54;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
 .owl-single {
   position: relative; }
   .owl-single .number {
@@ -1598,7 +1604,7 @@ input[type="password"] {
       left: 15px; }
     .custom-accordion .accordion-item .btn-link[aria-expanded="true"] {
       font-weight: 700;
-      background-color: #2C80E8;
+      background-color: #800080;
       color: #ffffff; }
       .custom-accordion .accordion-item .btn-link[aria-expanded="true"]:before {
         font-family: 'icomoon';
