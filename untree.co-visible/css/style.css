@@ -1818,3 +1818,10 @@ input[type="password"] {
 
 .list-check.primary li:before {
   color: #2C80E8; }
+
+.style-img{
+  width: 500px;
+  height: 900px;
+  object-fit: contain;
+
+}
